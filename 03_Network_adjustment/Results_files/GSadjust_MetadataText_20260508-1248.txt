@@ -1,6 +1,0 @@
-Attribute accuracy is evaluated from the least-squares network adjustment results.
-Survey | Max. delta residual | Max. datum residual | Mean SD | Deltas | Deltas not used | Datums | Datums not used
-2024-04-02  36.6   0.0 144.8  100   0   2   0
-Relative gravimeter scale factor(s)
-Survey | Meter | Scale factor | Scale factor S.D. (0 = specified S.F.)
-2024-04-02   B-28   0.984657   0.000552
