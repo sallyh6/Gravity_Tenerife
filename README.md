@@ -4,6 +4,8 @@
 
 This project investigates the hidden internal framework of the North-East Rift Zone (NERZ) in Tenerife (Canary Islands) using gravimetric data. By integrating a new, high-precision 2024 field campaign with historical datasets, we compiled a unified database to map out local gravity variations across the island. Because dense magmatic intrusions (like dikes and plumbing cores) increase the local gravitational pull, this mapping allows us to image the rift's subsurface geometry. Ultimately, we look at structural patterns like the narrowing of the rift axis to see how Tenerife’s evolution matches up against classic volcanic rift models from Hawaii.
 
+For precise informations specific to the study, please read the Internship report. 
+
 ---
 
 ## 📂 Repository Organization
@@ -31,7 +33,6 @@ Here is located all the documentation, python scripts and files needed for all t
 * **`Figures of the resuling work
 
 ## 🛠️ Environment & Dependencies
-
 To run the preprocessing, reduction, interpolation, and plotting pipelines, you will need a Python environment with the following libraries:
 
 * **`harmonica`**
