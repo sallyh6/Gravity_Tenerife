@@ -1,8 +1,8 @@
-# Gravity Tenerife: Subsurface Architecture of the North-East Rift Zone (NERZ)
+# Gravity constraints on the internal structure, evolution, and stability of volcanic rift zones in Tenerife, Canary Islands: comparison with Hawaiian rift models
 
 ## 📌 Project Overview
 
-This project investigates the hidden internal framework of the North-East Rift Zone (NERZ) in Tenerife (Canary Islands) using gravimetric data. By integrating a new, high-precision 2024 field campaign with historical datasets, we compiled a unified database to map out local gravity variations across the island. Because dense magmatic intrusions (like dikes and plumbing cores) alter the local gravitational pull, this mapping allows us to image the rift's subsurface geometry. Ultimately, we look at structural patterns like the narrowing of the rift axis to see how Tenerife’s evolution matches up against classic volcanic rift models from Hawaii.
+This project investigates the hidden internal framework of the North-East Rift Zone (NERZ) in Tenerife (Canary Islands) using gravimetric data. By integrating a new, high-precision 2024 field campaign with historical datasets, we compiled a unified database to map out local gravity variations across the island. Because dense magmatic intrusions (like dikes and plumbing cores) increase the local gravitational pull, this mapping allows us to image the rift's subsurface geometry. Ultimately, we look at structural patterns like the narrowing of the rift axis to see how Tenerife’s evolution matches up against classic volcanic rift models from Hawaii.
 
 ---
 
