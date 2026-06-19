@@ -8,16 +8,23 @@ This project investigates the hidden internal framework of the North-East Rift Z
 
 ## 📂 Repository Organization
 
-The repository is structured into three main blocks to take you from raw field data to the final geophysical maps:
+The repository is structured into three main parts, from raw field data to the final gravity maps:
 
 ### 📁 0_Datasets
-* **`Raw/`**: Unprocessed field measurements, including relative gravity readings from the Burris gravimeter, Earth-tide data, and raw GNSS logs.
-* **`Processed/`**: The final unified gravity database, the merged digital elevation model (land topography + bathymetry), and the comparative data profiles from Hawaii.
+* **`Original_datasets/`**: Unprocessed and preprocessed CSIC field measurements, as well as other datastest used from previous articles.
+* **`Final/`**: The final, processed, unified gravity database: value after corrections (topo_free_disturbance) and final values after the application of the offsets (G_ref).
 
-### 📁 1_Methodology
-* **`Preprocessing/`**: Python scripts and workflows for differential GNSS positioning, instrument drift corrections, and network adjustments.
-* **`Reduction/`**: Codes handling gravity corrections, 3D topographic prism modeling, and regional-residual field separation using satellite data.
-* **`Interpolation/`**: Physics-based gridding scripts utilizing the Equivalent Source method to turn scattered data points into continuous maps.
+### 📁 1_Methodology_Processing
+Here is located all the documentation, python scripts and data needed for all the steps of the processing:
+* **`01_DGNSS_positionning/`**:
+* **`02_Instrument_drift/`**:
+* **`03_Network_adjustment/`**:
+* **`04_DEM_Tenerife/`**:
+* **`05_Correction_reduction_data/`**:
+* **`06_Data_alignement/`**:
+* **`07_Interpolation_EQS/`**:
+* **`08_Regional_field_separation/`**:
+* **`09_Gradient_analysis/`**:
 
 ### 📁 2_Results_Figures
 * **`Maps/`**: Final raster grids of local gravity disturbances and horizontal gravity gradients.
