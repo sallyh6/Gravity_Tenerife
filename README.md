@@ -30,7 +30,7 @@ Here is located all the documentation, python scripts and files needed for all t
 (More details for each step in the WORKFLOW document)
 
 ### 📁 2_Results_Figures
-* **`Figures of the resuling work
+* Figures of the resuling work
 
 ## 🛠️ Environment & Dependencies
 To run the preprocessing, reduction, interpolation, and plotting pipelines, you will need a Python environment with the following libraries:
