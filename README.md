@@ -32,6 +32,9 @@ Here is located all the documentation, python scripts and files needed for all t
 ### 📁 2_Results_Figures
 * Figures of the resuling work
 
+### 📁 3_Perspectives_inversion_3D
+* 3D gravity inversions, only test due to time contraints. 
+
 ## 🛠️ Environment & Dependencies
 To run the preprocessing, reduction, interpolation, and plotting pipelines, you will need a Python environment with the following libraries:
 
